@@ -55,7 +55,7 @@ Designed and trained a Convolutional Neural Network (CNN) for music genre classi
 
 #### 👁️ [Monocular 3D Object Reconstruction](https://github.com/EmanueleHarrasser/project_stereo_prediction)
 Developed a pipeline capable of estimating 3D metric dimensions and volume from a single image or batch of 2D images.
-* Integrated SOTA models (**YOLO**, **Depth-Anything-V2**) with classic computer vision techniques to create a cost-effective solution for real-world deployment.
+* Integrated SOTA models (**YOLO**, **Depth-Anything**) with classic computer vision techniques to create a cost-effective solution for real-world deployment.
 * **Stack:** Python, Computer Vision.
 
 #### 🧬 [Clustering Software in C](https://github.com/yoavgeva63/K-means-clustering)

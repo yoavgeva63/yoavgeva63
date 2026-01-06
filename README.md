@@ -1,15 +1,11 @@
-<div align="center">
-
 # Hi there, I'm Yoav Geva! 👋
 
-### CS & Econ Student @ TAU | Full-Stack Developer | Ex-Combat Tech Officer
+### CS & Econ Student @ TAU | Software Developer
 
 **Welcome to my project portfolio!**
 Here you'll find a curated selection of my academic, personal, and collaborative projects, reflecting my passion for innovation, problem-solving, and impactful software development.
 
 [LinkedIn](http://www.linkedin.com/in/yoav-geva-11268131a) • [Email](mailto:geva.yoav@gmail.com)
-
-</div>
 
 ---
 
@@ -22,15 +18,14 @@ I have a passion for building scalable web platforms and solving complex algorit
 * 🎓 **Education:** B.Sc. in Computer Science and Economics, Tel Aviv University.
     * **GPA:** 97.5 (Dean's Honor List)
     * **Exchange:** Selected for IMPAACTS Program in Italy (Master's level courses).
-* 💼 **Current Role:** Full-Stack Developer at `pupzik.com`.
 * 🎖️ **Leadership:** Former Combat Technology Officer (Captain), experienced in managing IT infrastructure, emergency operations, and R&D integration with Elbit Systems.
-* 🌱 **Interests:** Cloud Architecture, AI/ML, FinTech, and System Integration.
+* 🌱 **Interests:**  AI/ML, Cyber Security, and Deep Algorithms.
 
 ---
 
 ### 🛠️ Technical Skills
 
-* **Languages:** Python, Java, C, TypeScript
+* **Languages:** Python, Java, C, TypeScript, R, MIPS Assembly
 * **Web & Cloud:** React, Vite, AWS, Firebase, REST APIs
 * **AI & Tools:** GitHub, Cursor, Claude Code, GPT, Trello
 * **Core Concepts:** Data Structures, Algorithms, OOP, System Architecture

@@ -49,25 +49,22 @@ Spearheaded the full-cycle development of a core web platform, transforming busi
 ### 💻 Academic & Technical Projects
 
 #### 🎵 [Music Classification Model (CNN)](https://github.com/yoavgeva63/Music_Genre_Classification_NN)
-Created a Convolutional Neural Network (CNN) model for classifying music genres.
-* Includes deep analysis of architecture and parameters to optimize the accuracy-resources trade-off.
-* **Stack:** Python, Deep Learning libs.
+Designed and trained a Convolutional Neural Network (CNN) for music genre classification.
+* Conducted deep analysis of architecture and hyperparameters to optimize the accuracy-vs-resource trade-off.
+* **Stack:** Python, PyTorch, Google Colab.
 
 #### 👁️ [Monocular 3D Object Reconstruction](https://github.com/EmanueleHarrasser/project_stereo_prediction)
-Developed a system capable of estimating the 3D metric dimensions and volume of an object using a single 2D image.
-* **Stack:** Computer Vision, Python.
+Developed a pipeline capable of estimating 3D metric dimensions and volume from a single image or batch of 2D images.
+* Integrated SOTA models (**YOLO**, **Depth-Anything-V2**) with classic computer vision techniques to create a cost-effective solution for real-world deployment.
+* **Stack:** Python, Computer Vision.
 
 #### 🧬 [Clustering Software in C](https://github.com/yoavgeva63/K-means-clustering)
-Implemented C libraries for advanced clustering and classification techniques.
-* Focus on memory management and comprehensive analysis of model performance.
-* **Stack:** C, Python (Analysis).
+Implemented high-performance C libraries for advanced clustering (K-Means) and classification techniques.
+* Features rigorous manual memory management and a Python interface for comprehensive performance analysis.
+* **Stack:** C, Python.
 
 #### 🌳 [AVL Tree](https://github.com/yoav-geva/AVLTree) & [Fibonacci Heap](https://github.com/yoav-geva/FibonacciHeap)
-Implemented balanced tree and heap operations including experimental runtime analyses.
+Implemented complex balanced tree and heap data structures from scratch.
+* Includes extensive test suites and experimental runtime analysis to verify theoretical time complexity.
 * **Stack:** Java, Python.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoavgeva63&show_icons=true&theme=minimal" alt="Yoav's GitHub Stats" />
-</div>
+  

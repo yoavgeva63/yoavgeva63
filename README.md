@@ -1,4 +1,4 @@
-# 🛠️ Yoav Geva – Project Portfolio
+# 🎯 Yoav Geva – Project Portfolio
 
 ### CS & Econ Student @ TAU | Software Developer
 

@@ -1,9 +1,9 @@
-# Hi there, I'm Yoav Geva! 👋
+# Yoav Geva – Project Portfolio
 
 ### CS & Econ Student @ TAU | Software Developer
 
 **Welcome to my project portfolio!**
-Here you'll find a curated selection of my academic, personal, and collaborative projects, reflecting my passion for innovation, problem-solving, and impactful software development.
+Here you'll find a my collection of academic, personal, and collaborative projects, reflecting my passion for innovation, problem-solving, and impactful software development.
 
 [LinkedIn](http://www.linkedin.com/in/yoav-geva-11268131a) • [Email](mailto:geva.yoav@gmail.com)
 

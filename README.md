@@ -11,15 +11,15 @@ Here you'll find a my collection of academic, personal, and collaborative projec
 
 ### 🧠 About Me
 
-I am a third-year B.Sc. student in Computer Science and Economics at Tel Aviv University, combining academic excellence with practical engineering leadership.
+I am a software engineer driven by a passion for scalable systems and algorithmic complexity. As a top-ranking student and active developer, I bridge the gap between theoretical computer science and shipping production code.
 
-I have a passion for building scalable web platforms and solving complex algorithmic challenges. With a background as a Captain in the IDF leading technical operations, I bring discipline and a results-oriented approach to software development.
+My background as a Combat Technology Officer instilled in me a disciplined, results-first approach to engineering—whether I'm optimizing a neural network or architecting a cloud platform.
 
 * 🎓 **Education:** B.Sc. in Computer Science and Economics, Tel Aviv University.
     * **GPA:** 97.5 (Dean's Honor List)
     * **Exchange:** Selected for IMPAACTS Program in Italy (Master's level courses).
-* 🎖️ **Leadership:** Former Combat Technology Officer (Captain), experienced in managing IT infrastructure, emergency operations, and R&D integration with Elbit Systems.
-* 🌱 **Interests:**  AI/ML, Cyber Security, and Deep Algorithms.
+* 🎖️ **Leadership:** Former IDF Captain (Combat Tech), led R&D integration with Elbit Systems.
+* 🌱 **Interests:**  Deep Algorithms, AI/ML, Cyber Security and Cloud Architecture.
 
 ---
 
